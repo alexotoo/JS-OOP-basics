@@ -123,19 +123,19 @@ class ProductsList extends Components {
     this.products = [
       new Product(
         "Flex Cars",
-        "assets/img/car6.JPG",
+        "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         569.08,
         "new with 2020 software upgrades"
       ),
       new Product(
         "Moon Car",
-        "assets/img/car1.JPG",
+        "https://images.pexels.com/photos/38637/car-audi-auto-automotive-38637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         708.99,
-        "fast and affordable for the new generation"
+        "see the car, or find a good time for a test drive. Take the next step and contact the seller."
       ),
       new Product(
         "universal Car",
-        "assets/img/car4.JPG",
+        "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         204.97,
         "has a multidimentional compactibility with inbuilt meter"
       )
